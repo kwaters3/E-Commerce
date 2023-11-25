@@ -20,29 +20,55 @@ The main objective of this project is to gain a thorough understanding of the un
 
 ## Visuals
 
-#### Click on the image below to reveal the video walk-through/demonstration:
+#### Click on the image below to reveal the video walk-through of the `installation` process:
 
 [![Screenshot](./assets/images/screenshot1.png)](https://drive.google.com/file/d/1QbotX_8gA8kMAfb2h3Fc35aLuqua1c3N/view)
+
+#### Click on the image below to reveal the video walk-through of the `category-routes` process:
+
+[![Screenshot](./assets/images/screenshot1.png)](https://drive.google.com/file/d/1QbotX_8gA8kMAfb2h3Fc35aLuqua1c3N/view)
+
+#### Click on the image below to reveal the video walk-through of the `product-routes` process:
+
+[![Screenshot](./assets/images/screenshot1.png)](https://drive.google.com/file/d/1QbotX_8gA8kMAfb2h3Fc35aLuqua1c3N/view)
+
+#### Click on the image below to reveal the video walk-through of the `tags-routes` process:
+
+[![Screenshot](./assets/images/screenshot1.png)](https://drive.google.com/file/d/1QbotX_8gA8kMAfb2h3Fc35aLuqua1c3N/view)
+
+
 
 ## Installation
 
 #### How to install the application:
 
-- First, clone the git repository from GitHub
+- First, clone the git repository from [GitHub](https://github.com/kwaters3/E-Commerce) 
+    - Open the clone file in VS code or in your terminal 
+    - Create your` .gitignore` and `.env` files.
+    - Check the `dependencies` and `dev-dependencies` that are needed on `package.json`.
+- Next, set up all the existing npm packages, run `npm init`.
 
-- Next, install the required packages by using the following command: npm install
+- Then, install the required dependencies on the `node_modules` folder, run: `npm install`.
 
-- Then, invoke the application by using the following command: npm start
+- Then, to create your database, go to the terminal and run: `mysql -u root -p`. 
+  - Enter mysql password when prompted.
+  - Next, enter `source db/schema.sql`. 
+  - Then, to seed the database, run: `npm run seed`.
 
-- Finally, the user will have access to the E-Commerce database content.
+- Use MySQL Workbench, to confirm if the tables were created and the database was seeded. 
+
+- To invoke the application, run: `npm start`. The Sequelize models sync to the MySQL database when the server starts. 
+
+- To test the application, use `Insomnia` or `Postman` (view Test section).
+
 
 ## Usage
 
 #### How to use the application:
 
-- First, install the given application/project
+- First, make sure to install the given application following the previous steps and video walkthrough. 
 
--  Next, 
+-  Next, on MySQL Workbench, click the connection for the application. 
 
 ## Dependencies
 
