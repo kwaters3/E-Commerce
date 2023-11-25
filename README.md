@@ -22,7 +22,7 @@ This application was developed as a back end for an e-commerce website that uses
 
 #### Click on the image below to reveal the video walk-through of the `installation` process:
 
-[![Screenshot](./assets/images/screenshot1.png)](https://drive.google.com/file/d/1QbotX_8gA8kMAfb2h3Fc35aLuqua1c3N/view)
+[![Screenshot](./assets/images/initial.png)](https://youtu.be/II7sBMICwN8)
 
 #### Click on the image below to reveal the video walk-through of the `category-routes` process:
 
