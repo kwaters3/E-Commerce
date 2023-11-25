@@ -20,10 +20,10 @@ router.get("/", (req, res) => {
       },
     ],
   })
-    .then((dbProductData) => res.json(dbProductData))
+    .then((data) => res.json(data))
     .catch((err) => {
       console.log(err);
-      res.status(500).json(err);
+      res.status(400).json(err);
     });
 });
 
@@ -46,18 +46,18 @@ router.get("/:id", (req, res) => {
       },
     ],
   })
-    .then((dbProductData) => {
-      if (!dbProductData) {
+    .then((data) => {
+      if (!data) {
         res
           .status(404)
           .json({ message: "There was no product associated with this id." });
         return;
       }
-      res.json(dbProductData);
+      res.json(data);
     })
     .catch((err) => {
       console.log(err);
-      res.status(500).json(err);
+      res.status(400).json(err);
     });
 });
 
