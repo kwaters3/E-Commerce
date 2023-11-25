@@ -34,7 +34,7 @@ The main objective of this project is to gain a thorough understanding of the un
 
 - Then, invoke the application by using the following command: npm start
 
-- Finally, the user will have access to the Employee Tracker's database of departments, roles, and employees.
+- Finally, the user will have access to the E-Commerce database content.
 
 ## Usage
 
@@ -42,43 +42,28 @@ The main objective of this project is to gain a thorough understanding of the un
 
 - First, install the given application/project
 
-- Next, the command-line application will prompt the user with the following: `view all departments`, `view all roles`, `view all employees`, `add a department`, `add a role`, `add an employee` & `update an employee role`.
-
-- Then, if the user selects: `view all departments`, `view all roles`, or `view all employees`, then they are presented with a table displaying the given data.
-
-- Then, if the user selects: `add a department`, `add a role`, or `add an employee`, then they are able to create a new index for the given data.
-
-- Then, if the user selects: `update an employee role`, then they are able to update the given data.
-
-- Finally, if the user selects: `delete departments, roles, and employees`, then they are able to delete by department, a role, or an employee. 
+-  Next, 
 
 ## Dependencies
 
-- [inquirer](https://www.npmjs.com/package/inquirer/v/8.2.4)
+
 - [express](https://www.npmjs.com/package/express)
 - [mysql2](https://www.npmjs.com/package/mysql2)
-- [cfonts](https://www.npmjs.com/package/cfonts)
+- [sequelize](https://www.npmjs.com/package/sequelize)
+- [dotenv](https://www.npmjs.com/package/dotenv)
+- [nodemon](https://www.npmjs.com/package/nodemon)
 
 ## Credits
 
 - [SQL - W3Schools](https://www.w3schools.com/sql/sql_intro.asp)
 - [MySQL - W3Schools](https://www.w3schools.com/mysql/mysql_sql.asp)
+- [Sequelize](https://sequelize.org/)
 
-## Future-Development
-
-#### Below are additional commands that I would like to include to further develop the application:
-
-- Update employee managers
-
-- View employees by manager
-
-- View employees by department
-
-- View the total utilized budget of a department—in other words, the combined salaries of all employees in that department
 
 ## License
 
-This project is covered under the following license: [![License](https://img.shields.io/badge/License-MIT-turquoise.svg)](https://opensource.org/licenses/MIT)
+This project is covered under the following license: <br/>
+[![License](https://img.shields.io/badge/License-MIT-turquoise.svg)](https://opensource.org/licenses/MIT)
 
 ## Questions
 
