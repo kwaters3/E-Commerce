@@ -26,7 +26,7 @@ This application was developed as a back end for an e-commerce website that uses
 
 #### Click on the image below to reveal the video walk-through of the `category-routes` process:
 
-[![Screenshot](./assets/images/screenshot1.png)](https://drive.google.com/file/d/1QbotX_8gA8kMAfb2h3Fc35aLuqua1c3N/view)
+[![Screenshot](./assets/images/categories.png)](https://www.youtube.com/watch?v=L8QiW-QJldk)
 
 #### Click on the image below to reveal the video walk-through of the `product-routes` process:
 
