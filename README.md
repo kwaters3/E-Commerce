@@ -4,7 +4,7 @@
 
 ## Description
 
-This application was developed as a back end for an e-commerce website that uses the latest technologies and allows the user to compete with other e-commerce businesses, with the manager of an online retail company as the target user. This e-commerce application uses object-relational mapping (ORM) and has a modified back end starter code. Additionally, its working Express.js API is configured to use Sequelize as the WORM that interacts with the MySQL database, which consists of tables for categories, products, tags, and product tags. RESTful API routes point to each standard Create, Read, Update, and Delete (CRUD) operation to make requests on the database.
+This application was developed as a back end for an e-commerce website that uses the latest technologies and allows the user to compete with other e-commerce businesses, with the manager of an online retail company as the target user. This e-commerce application uses object-relational mapping (ORM) and has a modified back end starter code. Additionally, its working Express.js API is configured to use Sequelize as the key component to interact with the MySQL database, which consists of tables for categories, products, tags, and product tags. RESTful API routes point to each standard Create, Read, Update, and Delete (CRUD) operation to make requests on the database.
 
 ## Table of Contents
 
