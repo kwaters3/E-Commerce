@@ -30,11 +30,11 @@ This application was developed as a back end for an e-commerce website that uses
 
 #### Click on the image below to reveal the video walk-through of the `product-routes` process:
 
-[![Screenshot](./assets/images/screenshot1.png)](https://drive.google.com/file/d/1QbotX_8gA8kMAfb2h3Fc35aLuqua1c3N/view)
+[![Screenshot](./assets/images/product.png)](https://www.youtube.com/watch?v=Nw0XJGpwboc)
 
 #### Click on the image below to reveal the video walk-through of the `tags-routes` process:
 
-[![Screenshot](./assets/images/screenshot1.png)](https://drive.google.com/file/d/1QbotX_8gA8kMAfb2h3Fc35aLuqua1c3N/view)
+[![Screenshot](./assets/images/tag.png)](https://www.youtube.com/watch?v=MpVxpb3susg)
 
 
 
